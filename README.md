@@ -98,17 +98,5 @@ Developed and evaluated 4+ classification/regression models, improving predictiv
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiSathvikbharatula&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiSathvikbharatula&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiSathvikbharatula&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 <p align="center">📫 Reach me at <b>saisathvikbharatula@gmail.com</b> — open to Data Analyst / Data Scientist / ML Engineer roles</p>
